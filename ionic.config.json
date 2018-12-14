@@ -1,5 +1,7 @@
 {
   "name": "Fantasma",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }

@@ -1,0 +1,24 @@
+page-login {
+
+    ion-content {vertical-align: middle; height: 100%;}
+
+    .TextCenter{text-align: center}
+
+    .ImageCenter{margin: 10% auto; display: block}
+
+    .Fundo{background-color:#39455C}
+
+    .ColorTitle{color: #E6BA7A}
+
+    .item.item-input {width: 70%; margin: auto; display: block;}
+
+    .list-md .item-input:last-child{border-bottom: none}
+
+    .list-md .item-block .item-inner{border-bottom: none}
+
+    .ThemeButton{background-color:#E6BA7A}
+
+    .md .menu-inner{
+        display: none !important;
+    }
+}

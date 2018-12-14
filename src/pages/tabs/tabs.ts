@@ -1,3 +1,6 @@
+import { ForumPage } from './../forum/forum';
+import { AcervoPage } from './../acervo/acervo';
+import { AulasPage } from './../aulas/aulas';
 import { Component } from '@angular/core';
 
 import { AboutPage } from '../about/about';
@@ -10,8 +13,9 @@ import { HomePage } from '../home/home';
 export class TabsPage {
 
   tab1Root = HomePage;
-  tab2Root = AboutPage;
-  tab3Root = ContactPage;
+  tab2Root = AulasPage;
+  tab3Root = AcervoPage;
+  tab4Root = ForumPage;
 
   constructor() {
 

@@ -38,8 +38,30 @@ $colors: (
   secondary:  #32db64,
   danger:     #f53d3d,
   light:      #f4f4f4,
-  dark:       #222
+  dark:       #222,
+  Charcoal:   #39455C,
+  Middle:     #E6BA7A,
+  Robin:      #A3D5D3,
+  Rackley:    #628DAA,
+  Pomp:       #865C99,
+  Gray:       #B7B1C3,
+  Light:      #B38FC4,
+  Ming:       #407180,
+  Teste:      #408FC4,
+  Sheen:      #68AD9C,
+  Ube:        #82ADA2,
+  Azul:       #ADC2D9,
 );
+
+$text-input-md-highlight-color: #ffffff;
+$label-md-text-color-focused: #ffffff;
+$toolbar-md-background: #39455C;
+$tabs-background: #39455C;
+$tabs-ios-tab-color-inactive: #E6BA7A;
+
+
+$tab-button-md-active-color: color($colors,primary);
+
 
 
 // App iOS Variables
